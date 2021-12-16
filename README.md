@@ -5,8 +5,10 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/fteipijqlwt54j0u?svg=true)](https://ci.appveyor.com/project/KOSASIH/remacs)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/network)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/issues)
-
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/stargazers)
+
+
 
 # REMACS
 Disaster Recovery database management system
