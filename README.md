@@ -7,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/issues)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/stargazers)
-
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FREMACS)
 
 
 # REMACS
