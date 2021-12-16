@@ -4,5 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4d2dbcc2-f709-43bd-b0dc-a7af9a29538e/deploy-status)](https://app.netlify.com/sites/remacs/deploys)    
 [![Build status](https://ci.appveyor.com/api/projects/status/fteipijqlwt54j0u?svg=true)](https://ci.appveyor.com/project/KOSASIH/remacs)
 
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/issues)
+
 # REMACS
 Disaster Recovery database management system
