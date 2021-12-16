@@ -1,2 +1,2 @@
 # REMACS
-Disaster Recovery dabase management system
+Disaster Recovery database management system
