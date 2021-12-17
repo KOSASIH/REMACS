@@ -11,4 +11,4 @@
 
 
 # REMACS
-Disaster Recovery database management system
+Disaster Recovery database management system tools
