@@ -9,5 +9,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/REMACS)](https://github.com/KOSASIH/REMACS/stargazers)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FREMACS)
 [![codecov](https://codecov.io/gh/KOSASIH/REMACS/branch/main/graph/badge.svg?token=RGQCI7H78P)](https://codecov.io/gh/KOSASIH/REMACS)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5483/badge)](https://bestpractices.coreinfrastructure.org/projects/5483)
+
+
 # REMACS
 Disaster Recovery database management system tools
