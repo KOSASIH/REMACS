@@ -11,6 +11,7 @@
 [![codecov](https://codecov.io/gh/KOSASIH/REMACS/branch/main/graph/badge.svg?token=RGQCI7H78P)](https://codecov.io/gh/KOSASIH/REMACS)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5483/badge)](https://bestpractices.coreinfrastructure.org/projects/5483)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
 # REMACS
 Disaster Recovery database management system tools
