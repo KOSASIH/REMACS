@@ -24,5 +24,5 @@
 # REMACS
 Disaster Recovery database management system tools
 
-# We use AWS technology to create this project
+# We use AWS SageMaker technology to create this project
 https://studiolab.sagemaker.aws/
